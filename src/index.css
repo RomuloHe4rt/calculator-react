@@ -15,5 +15,5 @@ body {
   text-align: center;
 
   color: #fff;
-  background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73));
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, rgb(33, 147, 176), rgb(109, 213, 237)) repeat scroll 0% 0%;
 }
