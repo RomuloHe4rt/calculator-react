@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/RomuloHe4rt/calculator-react">
     <img src="https://i.ibb.co/xDQ52Zy/calculator.png" alt="Logo" />
-  </a>
+  </a> <br>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT" />
   </a>
