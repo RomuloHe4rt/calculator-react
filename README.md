@@ -1,8 +1,14 @@
-![banner](https://i.ibb.co/xDQ52Zy/calculator.png)
-
 ## Creating calculator with React
 
-![Node.js CI](https://github.com/chamoda/react-calculator/workflows/Node.js%20CI/badge.svg)
+<p align="center">
+  <a href="https://github.com/RomuloHe4rt/calculator-react">
+    <img src="https://i.ibb.co/xDQ52Zy/calculator.png" alt="Logo" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT" />
+  </a>
+</p>
+
 ## How to run
 
 Clone the repo, then run using npm.
